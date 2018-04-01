@@ -8,8 +8,8 @@
     "build": "webpack --mode production"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Rubin Bajracharya",
+  "license": "MIT",
   "dependencies": {
     "react": "^16.3.0",
     "react-dom": "^16.3.0"
